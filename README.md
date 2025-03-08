@@ -10,9 +10,7 @@ To clone this repository to your local machine, follow these steps:
 2. Navigate to the directory where you want to clone the repository.
 3. Use the following command to clone the repository:
 
-```bash
-git clone (https://github.com/ansarshaik965/AWS_DEVOPS_CICD)
-```
+
 
 
 
