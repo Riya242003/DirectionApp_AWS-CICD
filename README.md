@@ -8,15 +8,7 @@ To clone this repository to your local machine, follow these steps:
 
 1. Open your terminal or command prompt.
 2. Navigate to the directory where you want to clone the repository.
-3. Use the following command to clone the repository:
 
-
-
-
-
-## Full Project Demo
-
-For a detailed walkthrough and demonstration of deploying the City Direction Web App on AWS, you can watch the full project video [here](https://www.appopener.com/yt/l7kdeo6ka).
 
 ## Project Structure
 
