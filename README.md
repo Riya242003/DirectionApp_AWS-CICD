@@ -67,7 +67,6 @@ AWS CodeDeploy automates application deployments to EC2, Lambda, and on-premises
 1. **Create an `appspec.yml` file**
 
 2. **Set Up an EC2 Instance 
-     ```
 
 3. **Automate Deployment with CodePipeline**
    - Create a new **AWS CodePipeline**
